@@ -1,9 +1,10 @@
 #variables
 name = "Leonela"
 age = 19
-
+interes = "cs j 26"
 print ("name: ", name)
 print ("age: ", age)
+print ("interes", interes)
 
 #condition
 if age >= 18:
