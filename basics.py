@@ -2,6 +2,10 @@
 name = "Leonela"
 age = 19
 interes = "cs j 26"
+
+#Dicen que el ser humano valora el
+#tiempo cuando ya no hay más
+
 print ("name: ", name)
 print ("age: ", age)
 print ("interes", interes)
@@ -13,7 +17,7 @@ else:
     print ("minor")
 if age = minor:
     print ("age leagaly")
-ese:
+else:
     print ("denegado")
 
 #loop
