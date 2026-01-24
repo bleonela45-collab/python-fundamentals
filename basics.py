@@ -29,6 +29,9 @@ for i in range(100)
     print ("number: ", i)
 
 #deberiamos crear print de ramdom
+#generalizar o random
+
+i don't know
 
 
 
