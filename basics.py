@@ -20,7 +20,7 @@ if age = minor:
 else:
     print ("denegado")
 
-#loop
+#loop // buqle
 for i in range(5):
     print ("number: ", i)
 for i un range(10):
@@ -30,8 +30,7 @@ for i in range(100)
 
 #deberiamos crear print de ramdom
 #generalizar o random
-
-i don't know
+#buscar como hacer ramdom
 
 
 
