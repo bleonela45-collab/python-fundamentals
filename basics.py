@@ -31,6 +31,7 @@ for i in range(100)
 #deberiamos crear print de ramdom
 #generalizar o random
 #buscar como hacer ramdom
+#el for es buqle
 
 
 
