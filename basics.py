@@ -5,6 +5,8 @@ interes = "cs j 26"
 
 #Dicen que el ser humano valora el
 #tiempo cuando ya no hay más
+#porque valoramos cuandi no hay mas?
+
 
 print ("name: ", name)
 print ("age: ", age)
