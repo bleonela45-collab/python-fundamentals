@@ -36,5 +36,6 @@ for i in range(100)
 #el for es buqle
 
 #a veces no sabes como amar y ese el proceso
+#Dicien que el ser humano valoro el tiempo cuando ya no hay
 print ("  ", interes)
 
