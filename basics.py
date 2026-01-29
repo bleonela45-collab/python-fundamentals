@@ -35,7 +35,6 @@ for i in range(100)
 #buscar como hacer ramdom
 #el for es buqle
 
-#a veces no sabes como amar y ese el proceso
-#Dicien que el ser humano valoro el tiempo cuando ya no hay
+#Dicen que el hombre
 print ("  ", interes)
 
