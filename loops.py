@@ -2,3 +2,7 @@
 #Condition
 if i=5:
  print (" esp ", i)
+
+#Hay que armar muxhas cosas de la via: no la se
+
+#bucle, loops, noples
