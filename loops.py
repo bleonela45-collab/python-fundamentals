@@ -6,3 +6,4 @@ if i=5:
 #Hay que armar muxhas cosas de la via: no la se
 
 #bucle, loops, noples
+python es cool, so ameisung
