@@ -7,3 +7,5 @@ if i=5:
 
 #bucle, loops, noples
 python es cool, so ameisung
+
+#No somos animales, no somos salvajes ni somos mostruos.
