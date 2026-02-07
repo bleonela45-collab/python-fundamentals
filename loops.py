@@ -9,3 +9,6 @@ if i=5:
 python es cool, so ameisung
 
 #No somos animales, no somos salvajes ni somos mostruos.
+
+#is so controbersial. 
+my man is so lovely, hot, nice, inv
