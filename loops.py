@@ -12,3 +12,5 @@ python es cool, so ameisung
 
 #is so controbersial. 
 my man is so lovely, hot, nice, inv
+
+#£ is so lovely, and i love myself
