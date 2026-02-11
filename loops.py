@@ -16,3 +16,5 @@ my man is so lovely, hot, nice, inv
 #£ is so lovely, and i love myself
 
 #Es que amar y querer no es igual. Amar es sufrir y querer es gozar.
+
+#la vida es asi
