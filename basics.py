@@ -39,9 +39,8 @@ for i in range(100)
 print ("  ", interes)
 #tranformar cambios
 #transformar cambioss
-quitate la jordan, que esta noche te culeo. 
-pase y toque, pase y toque
 
 #Se piensa que por dar oportunidades, si es que la da, vamos a rogar
 
 #Fuck ICE
+Fuck ICE
