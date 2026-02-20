@@ -19,4 +19,7 @@ my man is so lovely, hot, nice, inv
 
 #la vida es asi
 
-#loops. La vida es asi
+#loops. La vida es asi.
+
+"
+//loops
