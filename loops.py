@@ -27,3 +27,5 @@ my man is so lovely, hot, nice, inv
 //loops. la decision esta en vos
 
 podrad??
+
+podremos, lo haremos. Que no nos importe el resto
