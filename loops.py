@@ -28,4 +28,6 @@ my man is so lovely, hot, nice, inv
 
 podrad??
 
-podremos, lo haremos. Que no nos importe el resto
+podremos, lo haremos. Que no nos importe el
+
+Haremos lo posible, y solo lo posible.  resto
