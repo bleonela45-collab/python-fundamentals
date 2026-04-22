@@ -1,4 +1,4 @@
-#En este archivo no hay nada, lo que es raro
+8#En este archivo no hay nada, lo que es raro
 #Condition
 if i=5:
  print (" esp ", i)
@@ -43,4 +43,6 @@ fir the reat of my life, of the rest of my life
 
 no me quiero sentir sola, nunca mas amor. Abrazame hasta que me quede sin huesos
 
-rompeme cada. una de mis estructura
+rompeme cada una de mis estructura
+
+enamorame, y entregame cada gramo de tu ser
