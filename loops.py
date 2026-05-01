@@ -49,4 +49,6 @@ enamorame, y entregame cada gramo de tu ser
 
 For the rest of my love,
 
-for the rest of my life
+for the rest of my lif
+
+Sepa la bola que tengo que hacer o ser, LPM,
