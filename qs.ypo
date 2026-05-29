@@ -10,3 +10,10 @@ int min= 0;
     printf("");
 
     } while(1)
+
+do{
+
+
+
+
+} while(n_ven <1 && n_ven <4)
